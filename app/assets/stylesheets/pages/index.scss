@@ -1,0 +1,11 @@
+@import '../components/banner';
+@import '../components/popup';
+@import '../components/project-carousel';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+
+.main {
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  height: 100vh;
+  background-color: black;
+}
